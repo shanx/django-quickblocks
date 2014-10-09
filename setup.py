@@ -6,8 +6,8 @@ setup(
     licence = 'BSD',
 
     install_requires = [
-        'Django>=1.3',
-        'Pillow==1.7.8',
+        'Django>=1.4',
+        'Pillow>=1.7.8',
         'smartmin',
         'django-reversion>=1.3.3'
         ],
